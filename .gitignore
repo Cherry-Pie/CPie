@@ -1,4 +1,2 @@
-/data/font/
-/data/img/
-/data/mus/
+/data/*
 *.pyc
